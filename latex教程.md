@@ -76,9 +76,9 @@ $X = WX + b$
 
 - 交叉引用
 
-\label{key}
+- \label{key}
 
-\ref{key}
+- \ref{key}
 
 ### **作者信息**
 
