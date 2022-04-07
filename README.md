@@ -1,23 +1,37 @@
 # LatexTutorial4paper
 
 #### 介绍
+
 一个极其简单的latex编写英文论文的教程，目标是可以让学习者在有对应模板的前提下，1小时内学会使用latex撰写自己的论文。
 
-#### 软件架构
-软件架构说明
+#### Todo
+
+- [x] latex教程
+
+  ​	[latex教程](./latex教程.md)
+
+- [ ] 录制视频
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
-#### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### path
+
+```
+│  Excel2LaTeX.xla
+│  latex教程.md
+│  LICENSE
+│  README.md
+│  
+└─texstudio语法检测插件
+        dict-en-20211001.oxt
+        jdk-17_windows-x64_bin.exe
+        LanguageTool-stable.zip
+        readme.md
+```
+
+
 
 #### 参与贡献
 
