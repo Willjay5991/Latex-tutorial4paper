@@ -47,7 +47,8 @@
 
 ### **插入图， 表， 公式，**
 
-<center>插入图</center>
+- 插入图
+
 ```
 \begin{figure}[H]	
 	\includegraphics[width=0.55\textwidth]{../fig/fig-accVSiteration.pdf}
@@ -55,12 +56,14 @@
 \end{figure} 
 ```
 
-<center>插入表格</center>
+- 插入表格
+
 ```
 使用excel宏
 ```
 
-<center>插入公式</center>
+- 插入公式
+
 ```
 \begin{equation}
     X = WX + b
