@@ -4,6 +4,11 @@
 
 一个极其简单的latex编写英文论文的教程，目标是可以让学习者在有对应模板的前提下，1小时内学会使用latex撰写自己的论文。
 
+**URL**
+
+- [gitee](https://gitee.com/willjayhomesite/latex-tutorial4paper)
+- [github](https://github.com/Willjay5991/Latex-tutorial4paper)
+
 #### Todo
 
 - [x] latex教程
