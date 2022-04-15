@@ -15,7 +15,9 @@
 
   ​	[latex教程](./latex教程.md)
 
-- [ ] 录制视频
+- [x] 录制视频
+
+  - [ ] 视频剪辑中 **thanks** [威宇师弟](https://github.com/hwyNpu)
 
 - [ ] 持续维护   [常用期刊的latex模板链接](./常用期刊的latex模板链接.md)
 
