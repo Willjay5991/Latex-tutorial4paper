@@ -15,7 +15,7 @@
 
   ​	[latex教程](./latex教程.md)
 
-- [x] 录制视频
+- [x] 录制视频     *感谢三个师弟的配合：* [柴柴](https://github.com/mrChaiChai), [威宇](https://github.com/hwyNpu) [宇鹏]([https://github.com/pppengg)
 
   - [ ] 视频剪辑中 **thanks** [威宇师弟](https://github.com/hwyNpu)
 

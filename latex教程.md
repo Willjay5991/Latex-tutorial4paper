@@ -15,7 +15,7 @@
 
 ## 软件的安装
 
-- 推荐使用[overleaf]() 在线编辑latex论文，便于跨平台使用，但是需要一直在线。
+- 推荐使用[overleaf](https://www.overleaf.com) 在线编辑latex论文，便于跨平台使用，但是需要一直在线。
 
 - 也可以使用本地编辑的方式，推荐**texlive + texstudio**
 
