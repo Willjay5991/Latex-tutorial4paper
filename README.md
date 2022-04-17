@@ -17,7 +17,7 @@
 
 - [x] 录制视频     *感谢三个师弟的配合：* [仕元](https://github.com/mrChaiChai), [威宇](https://github.com/hwyNpu) [宇鹏]([https://github.com/pppengg)
 
-  - [x] 视频已经上传到[b站](https://www.bilibili.com/video/BV1pr4y1H77a?share_source=copy_web)      感谢 [仕元](https://github.com/mrChaiChai) 辛苦的剪辑。
+  - [x] [视频已经上传到b站](https://www.bilibili.com/video/BV1pr4y1H77a?share_source=copy_web)      感谢 [仕元](https://github.com/mrChaiChai) 辛苦的剪辑。
 
 - [ ] 持续维护   [常用期刊的latex模板链接](./常用期刊的latex模板链接.md)
 
